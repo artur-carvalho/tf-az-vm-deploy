@@ -29,3 +29,11 @@ variable "vnet_address_space" {
 variable "subnet_address_prefixes" {
   description = "Address prefix to be used in subnet"
 }
+
+variable "vm_admin_user" {
+  description = "Virtual machine admin username"
+}
+
+variable "vm_size" {
+  description = "Virtual machine size"
+}
