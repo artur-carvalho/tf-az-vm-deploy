@@ -10,3 +10,9 @@ terraform {
 provider "azurerm" {
   features {}
 }
+
+provider "vault" {
+  version = "2.0.0"
+  address = "" # Vault URL
+  token = "" # Vault token to acess
+}

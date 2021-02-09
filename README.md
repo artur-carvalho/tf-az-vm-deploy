@@ -1,6 +1,9 @@
 # tf-az-vm-deploy
 Deploy a single vm in Azure using Terraform and Vault
 
+# Variable names
+Change the variables in main.tf
+
 # How to deploy
 
 - Download terraform version 0.14.*
