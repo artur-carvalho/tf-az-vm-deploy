@@ -14,3 +14,9 @@ Change the variables in main.tf
 - Run terraform plan
 - Run terraform apply
 - Check in azure portal your resources created
+
+
+# TO DO
+Run local vault instance
+Use vault to store and retrieve keys
+Create more modules
